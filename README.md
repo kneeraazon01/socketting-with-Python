@@ -1,2 +1,2 @@
 # Scoketting-with-Python
-Let's look some  socket ting with python
+Let's look at some  socketting with python
